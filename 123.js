@@ -4,7 +4,7 @@
 // @version      1.1
 // @description  Fetch game keys with a stunning, larger UI
 // @author       You
-// @match        *://*/*
+// @match        https://hmgteam.net/GETKEY/index.php?api=vipadminkey
 // @grant        none
 // ==/UserScript==
 
